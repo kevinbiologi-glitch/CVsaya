@@ -1,2 +1,0 @@
-# CVsaya
-MyCV
